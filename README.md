@@ -1,2 +1,2 @@
-# 40SEU
-40 Seconds Shoot 'Em Up
+# 40MEU
+40 Minutes Space Shoot 'Em Up
