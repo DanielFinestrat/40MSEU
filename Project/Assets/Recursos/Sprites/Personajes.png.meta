@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: e716884b7f2d10b40b2c077f8b6b1eff
+timeCreated: 1456955993
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: P1
+    21300002: P2
+    21300004: Delante
+    21300006: Lados
+    21300008: Avalance
+    21300010: AvalanceGira
+    21300012: AvalanceCurva
+    21300014: Minion
+    21300016: Boss
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: P1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 107
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.383451, y: 31.583248}
+        - {x: -27.383451, y: 17.583248}
+        - {x: -23.383451, y: -16.416752}
+        - {x: -12.383451, y: -30.416752}
+        - {x: 5.6165485, y: -30.416752}
+        - {x: 19.616549, y: -19.416752}
+        - {x: 28.616549, y: 16.583248}
+        - {x: 28.616549, y: 31.583248}
+    - name: P2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 5
+        width: 107
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.285568, y: 31.583248}
+        - {x: -27.285568, y: 6.583248}
+        - {x: -24.285568, y: -13.416752}
+        - {x: -13.285568, y: -30.416752}
+        - {x: 10.714432, y: -30.416752}
+        - {x: 23.714432, y: -22.416752}
+        - {x: 28.714432, y: 17.583248}
+        - {x: 28.714432, y: 31.583248}
+    - name: Delante
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 12
+        width: 50
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 55}
+        - {x: -25, y: 48}
+        - {x: -25, y: -31}
+        - {x: -19, y: -55}
+        - {x: 15, y: -55}
+        - {x: 25, y: -18}
+        - {x: 25, y: 52}
+        - {x: 16, y: 55}
+    - name: Lados
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 26
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.394547, y: 23.432896}
+        - {x: -14.6054535, y: 23.432896}
+        - {x: -22.605453, y: 18.432896}
+        - {x: -22.605453, y: -7.5671043}
+        - {x: -6.6054535, y: -22.567104}
+        - {x: 8.3945465, y: -22.567104}
+        - {x: 23.394547, y: -8.567104}
+        - {x: 23.394547, y: 17.432896}
+    - name: Avalance
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 22
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.407166, y: 23.866297}
+        - {x: -24.407166, y: 15.866297}
+        - {x: -4.4071655, y: -23.133703}
+        - {x: 4.5928345, y: -23.133703}
+        - {x: 21.592834, y: 6.866297}
+        - {x: 24.592834, y: 14.866297}
+        - {x: 24.592834, y: 23.866297}
+    - name: AvalanceGira
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 38
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.025726, y: 18.132694}
+        - {x: -19.025726, y: -16.867306}
+        - {x: 19.974274, y: -16.867306}
+        - {x: 19.974274, y: 17.132694}
+        - {x: 18.974274, y: 18.132694}
+    - name: AvalanceCurva
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 17
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.827454, y: 28.783047}
+        - {x: -18.827454, y: -27.216953}
+        - {x: 17.172546, y: -27.216953}
+        - {x: 19.172546, y: -25.216953}
+        - {x: 19.172546, y: 28.783047}
+    - name: Minion
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 28
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.504028, y: 21.466196}
+        - {x: -8.495972, y: 21.466196}
+        - {x: -20.495972, y: 10.466196}
+        - {x: -20.495972, y: -14.533804}
+        - {x: -12.495972, y: -20.533804}
+        - {x: 17.504028, y: -20.533804}
+        - {x: 20.504028, y: -19.533804}
+        - {x: 20.504028, y: 10.466196}
+    - name: Boss
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 11
+        width: 122
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.581238, y: 30.183147}
+        - {x: -29.581238, y: 26.183147}
+        - {x: -31.581238, y: 21.183147}
+        - {x: -31.581238, y: -6.8168526}
+        - {x: -16.581238, y: -28.816853}
+        - {x: 10.418762, y: -28.816853}
+        - {x: 32.418762, y: -9.816853}
+        - {x: 32.418762, y: 20.183147}
+        - {x: 21.418762, y: 30.183147}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
